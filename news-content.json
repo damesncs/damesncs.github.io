@@ -1,0 +1,15 @@
+{
+    "stories": [
+        {
+            "headline": "Testing of the headline generator going well!",
+            "pic": "img/caleb.jpg",
+            "byline": "David Ames"
+        },
+        {
+            "headline": "Another headline is over here",
+            "pic": "img/bridge.jpg",
+            "byline": "Courtney Ames"
+        }
+    ]
+    
+}
