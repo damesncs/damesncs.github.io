@@ -1,0 +1,20 @@
+{
+    "resources":[
+        {
+            "title": "pzsprites",
+            "repo": "pzsprites",
+            "desc": "asdf",
+            "demopage": true,
+            "tags": ["js", "library"]
+        },
+        {
+            "title": "ez-sprites",
+            "repo": "ez-sprites",
+            "desc": "asdf",
+            "demopage": true,
+            "tags": ["js", "introcs"]
+        }
+
+
+    ]
+}
